@@ -1,0 +1,24 @@
+#topbar{
+	background-color: #000000;
+	height: 15px;
+	width: 100%;
+}
+
+body{
+	background-color: red;
+}
+
+#content{
+	background-color: green;
+	width: 75%;
+	margin: 0px auto;
+}
+
+#header{
+	height: 100px;
+	background-color: yellow;
+}
+
+#header img{
+	height: 100%;
+}
