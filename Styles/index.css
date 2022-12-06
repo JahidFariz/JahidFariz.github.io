@@ -1,0 +1,26 @@
+body {
+  background-image: url('../Images/body.jpg');
+  background-size: cover;
+}
+
+@font-face {
+	font-family: header_font;
+	src: url('../Fonts/Zen_Dots/ZenDots-Regular.ttf');
+}
+
+h1 {
+	font-family: header_font;
+}
+
+h2 {
+	font-family: header_font;
+}
+
+hr{
+	color: #FFFFFF;
+}
+
+#topbar{
+	background-color: white;
+	width: 100%;
+}

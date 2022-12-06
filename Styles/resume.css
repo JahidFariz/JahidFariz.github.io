@@ -1,0 +1,30 @@
+@font-face {
+	font-family: header_font;
+	src: url('../Fonts/Zen_Dots/ZenDots-Regular.ttf');
+}
+  
+h1 {
+	font-family: header_font;
+}
+
+h2 {
+	font-family: header_font;
+}
+
+table{
+	border-collapse: collapse;
+	width: 100%;
+}
+
+table, td, th{
+	border: 1px solid #0000FF;
+}
+
+hr{
+	color: #0000FF;
+}
+
+#header{
+	background-color: blue;
+	width: 100%;
+}
