@@ -5,10 +5,12 @@
   
 h1 {
 	font-family: header_font;
+	text-shadow: 2px 2px #000000;
 }
 
 h2 {
 	font-family: header_font;
+	text-shadow: 2px 2px #000000;
 }
 
 table{
