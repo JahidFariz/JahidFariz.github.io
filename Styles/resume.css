@@ -19,15 +19,15 @@ table{
 }
 
 table, td, th{
-	border: 1px solid #0000FF;
+	border: 1px solid green;
 }
 
 hr{
-	color: #0000FF;
+	color: green;
 }
 
 #header{
-	background-color: #0000FF;
-	color: red;
+	background-color: green;
+	color: pink;
 	width: 100%;
 }
