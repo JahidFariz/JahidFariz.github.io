@@ -1,8 +1,8 @@
 body {
-  background-image: url('../Images/body.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
+	background-image: url('../Images/body.jpg');
+  	background-size: cover;
+	background-attachment: fixed;
+
 }
 
 @font-face {
