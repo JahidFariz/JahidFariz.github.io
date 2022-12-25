@@ -1,3 +1,8 @@
+@font-face {
+	font-family: header_font;
+	src: url('../Fonts/Zen_Dots/ZenDots-Regular.ttf');
+}
+
 body {
 	background-image: url('../Images/body.jpg');
   	background-size: cover;
@@ -5,9 +10,33 @@ body {
 
 }
 
-@font-face {
-	font-family: header_font;
-	src: url('../Fonts/Zen_Dots/ZenDots-Regular.ttf');
+nav {
+	background-color: #0082E6;
+	height: 80px;
+}
+
+nav ul {
+	float: right;
+	margin: 0px;
+}
+
+nav ul li {
+	display: inline-block;
+	line-height: 80px;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: white;
+	font-family: 'Courier New', Courier, monospace;
+	padding: 10px 10px;
+	border-radius: 3px;
+	font-weight: bold;
+}
+
+nav ul li a:hover {
+	background-color: #1B9BFF;
+	transition: 0.5s;
 }
 
 h1 {
