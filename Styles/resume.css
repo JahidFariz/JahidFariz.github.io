@@ -2,6 +2,36 @@
 	font-family: header_font;
 	src: url('../Fonts/Zen_Dots/ZenDots-Regular.ttf');
 }
+
+nav {
+	background-color: green;
+	height: 80px;
+}
+
+nav ul {
+	float: right;
+	margin: 0px;
+	line-height: 80px;
+}
+
+nav ul li {
+	display: inline-block;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: white;
+	font-family: 'Courier New', Courier, monospace;
+	padding: 10px;
+	border-radius: 3px;
+	font-weight: bold;
+	text-shadow: 2px 2px #000000;
+}
+
+nav ul li a:hover {
+	background-color: lightgreen;
+	transition: 0.5s;
+}
   
 h1 {
 	font-family: header_font;
