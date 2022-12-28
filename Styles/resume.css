@@ -35,8 +35,7 @@ nav ul li a:hover {
 
 .topbar {
 	display: grid;
-	grid-template-columns: 1fr 4fr;
-	grid-template-columns: 10% 90%;
+	grid-template-columns: 15% 85%;
 	background-color: rgb(162, 202, 206);
 }
 
