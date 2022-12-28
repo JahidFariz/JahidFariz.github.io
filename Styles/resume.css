@@ -35,16 +35,20 @@ nav ul li a:hover {
 
 .topbar {
 	display: grid;
-	grid-template-columns: 20% 80%;
+	grid-template-columns: 25% 75%;
 	background-color: rgb(162, 202, 206);
 }
 
 .left {
-	padding: 5px;
+	padding: 10%;
 }
 
 .left img {
 	border-radius: 50%;
+}
+
+.right {
+	padding: 10%;
 }
 
 h1 {
