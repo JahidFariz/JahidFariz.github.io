@@ -35,9 +35,11 @@ nav ul li a:hover {
 
 .topbar {
 	display: grid;
-	grid-template-columns: 1fr 6fr;
+	grid-template-columns: 1fr 4fr;
+	grid-template-columns: 10% 90%;
+	background-color: rgb(162, 202, 206);
 }
-  
+
 h1 {
 	font-family: header_font;
 	text-shadow: 2px 2px #000000;
