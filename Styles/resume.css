@@ -33,20 +33,9 @@ nav ul li a:hover {
 	transition: 0.5s;
 }
 
-.header {
-	background-color: rgb(245, 239, 231);
+.topbar {
 	display: grid;
-	grid-template-columns: 1fr 8fr;
-}
-
-.left {
-	background-color: rgb(126, 219, 231);
-	padding: 20px;
-}
-
-.right {
-	background-color: rgb(162, 202, 206);
-	padding: 20px;
+	grid-template-columns: 1fr 6fr;
 }
   
 h1 {
