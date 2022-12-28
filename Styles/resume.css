@@ -37,6 +37,7 @@ nav ul li a:hover {
 	display: grid;
 	grid-template-columns: 25% 75%;
 	background-color: rgb(162, 202, 206);
+	width: 100;
 }
 
 .left {
