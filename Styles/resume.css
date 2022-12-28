@@ -40,7 +40,9 @@ nav ul li a:hover {
 }
 
 .left {
-	padding: 10%;
+	height: 80%;
+	width: 80%;
+	margin: auto;
 }
 
 .left img {
@@ -48,7 +50,7 @@ nav ul li a:hover {
 }
 
 .right {
-	padding: 10%;
+	margin: auto;
 }
 
 h1 {
