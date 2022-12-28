@@ -50,6 +50,8 @@ nav ul li a:hover {
 }
 
 .right {
+	height: 75;
+	width: 75;
 	margin: auto;
 }
 
