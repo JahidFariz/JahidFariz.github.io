@@ -4,7 +4,7 @@
 }
 
 nav {
-	background-color: green;
+	background-color: darkgreen;
 	height: 80px;
 }
 
@@ -70,7 +70,7 @@ table{
 }
 
 table, td, th{
-	border: 1px solid green;
+	border: 1px solid darkgreen;
 }
 
 hr{
@@ -78,7 +78,7 @@ hr{
 }
 
 #header{
-	background-color: green;
+	background-color: darkgreen;
 	color: red;
 	width: 100%;
 }

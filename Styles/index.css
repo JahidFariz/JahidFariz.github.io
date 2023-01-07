@@ -7,6 +7,7 @@ body {
 	background-image: url('../Images/body.jpg');
   	background-size: cover;
 	background-attachment: fixed;
+	background-repeat: no-repeat;
 }
 
 nav {
